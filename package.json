@@ -22,7 +22,7 @@
     "angular-gettext": "^2.4.1",
     "com.napolitano.cordova.plugin.intent": "https://github.com/napolitano/cordova-plugin-intent",
     "cordova-android": "7.1.4",
-    "cordova-browser": "5.0.4",
+    "cordova-browser": "6.0.0",
     "cordova-fabric-plugin": "1.1.14-dev",
     "cordova-plugin-android-permissions": "^1.0.0",
     "cordova-plugin-appcenter-analytics": "0.2.1",
